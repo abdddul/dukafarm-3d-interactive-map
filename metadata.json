@@ -1,0 +1,6 @@
+{
+  "name": "Zeida Farm — Interactive 3D Farm Map",
+  "description": "Interactive 3D digital twin and livestock spatial management map for Zeida Farm poultry and animal facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
